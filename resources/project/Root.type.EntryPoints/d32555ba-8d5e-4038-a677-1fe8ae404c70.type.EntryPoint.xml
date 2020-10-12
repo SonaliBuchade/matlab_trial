@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Info Type="StartUp" Visible="0" Icon="" File="models/mask.slx" Name="mask">
+    <Extension Value="7ad37527-52d9-427f-99d9-e96b834ddc19" Name="StartUpPrev" />
+</Info>
