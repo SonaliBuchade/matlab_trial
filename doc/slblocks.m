@@ -1,3 +1,4 @@
+%comment
 function blkStruct = slblocks
 
 Browser.Library = 'PI_lib';
